@@ -15,5 +15,4 @@ for i in range(0,len(time)):
                  count_m += int(part)/60           
         
 print(int(count_m))
-
-
+#
